@@ -5,6 +5,10 @@
 
 # Minh Duc Vu  - 40166824
 
+![SOEN345_lab7_EFG](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-MinhDuc1711/assets/99374119/e4fd9b35-5711-4f25-a47d-6bf22d9b58c9)
+![SOEN345_lab7](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-MinhDuc1711/assets/99374119/38b68d70-bda2-44d1-b619-c935e5eb08e9)
+
+
 This repository contains (will contain) several simple examples of static program analysis in Java using [Soot](https://github.com/Sable/soot).
 
 ## Who this tutorial is for?
